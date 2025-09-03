@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>ed24846c83f72210303bc8c6feaad30a</logo>
+        <menu/>
+        <name>Netflix</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1829932_netflix</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_1829932_netflix</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:29</sys_created_on>
+        <sys_id>bc2400a4833b2210303bc8c6feaad3eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:20:32</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc2400a4833b2210303bc8c6feaad3eb"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>netflix-logo-png_seeklogo-327627.png</file_name>
+        <hash>216020e8c6c6ef026cce05dab35f552eb96c1f7dde416e921e00768cf274385e</hash>
+        <image_height>600</image_height>
+        <image_width>600</image_width>
+        <size_bytes>6946</size_bytes>
+        <size_compressed>6132</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:31</sys_created_on>
+        <sys_id>ed24846c83f72210303bc8c6feaad30a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:20:32</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>bc2400a4833b2210303bc8c6feaad3eb</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="netflix-logo-png_seeklogo-327627.png" sys_id="ed24846c83f72210303bc8c6feaad30a">ed24846c83f72210303bc8c6feaad30a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:31</sys_created_on>
+        <sys_id>2124846c83f72210303bc8c6feaad30b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>8164</length>
+        <position>1</position>
+        <sys_attachment display_value="netflix-logo-png_seeklogo-327627.png" sys_id="ed24846c83f72210303bc8c6feaad30a">ed24846c83f72210303bc8c6feaad30a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:20:31</sys_created_on>
+        <sys_id>a124846c83f72210303bc8c6feaad30b</sys_id>
+    </sys_attachment_doc>
+</record_update>

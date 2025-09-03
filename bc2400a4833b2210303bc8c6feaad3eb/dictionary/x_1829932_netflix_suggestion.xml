@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1246b07c83b72210303bc8c6feaad3da" extends="task" label="Suggestion" max_length="40" name="x_1829932_netflix_suggestion" type="collection">
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="episode" sequence="0" value="episode"/>
+                <element inactive_on_update="false" label="serie" sequence="1" value="serie"/>
+                <element inactive_on_update="false" label="movie" sequence="2" value="movie"/>
+            </choice>
+        </element>
+        <element label="Reproaval Reason" max_length="4000" name="reproaval_reason" type="string"/>
+        <element display="true" label="Title" max_length="250" name="title" type="string"/>
+        <element label="Release Year" max_length="4" name="release_year" type="string"/>
+    </element>
+</database>

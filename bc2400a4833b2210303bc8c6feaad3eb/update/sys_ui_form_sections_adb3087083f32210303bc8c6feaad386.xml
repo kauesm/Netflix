@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="adb3087083f32210303bc8c6feaad386" sys_domain="global" table="x_1829932_netflix_media" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1b3087083f32210303bc8c6feaad38b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1829932_netflix_media" name="x_1829932_netflix_media" sys_domain="global" view="Default view">adb3087083f32210303bc8c6feaad386</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1829932_netflix_media" sys_domain="global" view="Default view">28ba736483b32210303bc8c6feaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61b3087083f32210303bc8c6feaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1829932_netflix_media" name="x_1829932_netflix_media" sys_domain="global" view="Default view">adb3087083f32210303bc8c6feaad386</sys_ui_form>
+            <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2db3087083f32210303bc8c6feaad3e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1829932_netflix_media" name="x_1829932_netflix_media" sys_domain="global" view="Default view">adb3087083f32210303bc8c6feaad386</sys_ui_form>
+            <sys_ui_section caption="Language" display_value="Language" name="x_1829932_netflix_media" sys_domain="global" view="Default view">edb3087083f32210303bc8c6feaad385</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1829932_netflix_media</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-02 14:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adb3087083f32210303bc8c6feaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1829932_netflix_media</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_adb3087083f32210303bc8c6feaad386</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-02 14:57:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
