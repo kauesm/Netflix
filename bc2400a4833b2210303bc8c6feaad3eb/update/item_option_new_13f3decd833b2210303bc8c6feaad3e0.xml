@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Review">33f80a81833b2210303bc8c6feaad3e6</cat_item>
+        <cat_item display_value="">33f80a81833b2210303bc8c6feaad3e6</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -26,7 +26,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <hidden>false</hidden>
+        <hidden>true</hidden>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-03 20:07:10</sys_created_on>
         <sys_id>13f3decd833b2210303bc8c6feaad3e0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Poster URL</sys_name>
         <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
         <sys_update_name>item_option_new_13f3decd833b2210303bc8c6feaad3e0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 20:14:25</sys_updated_on>
+        <sys_updated_on>2025-09-04 13:31:14</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
