@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Ratings" section_id="29b3087083f32210303bc8c6feaad384" sys_domain="global" table="x_1829932_netflix_media" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>avarage_rating</element>
+            <element>imd_rating</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
-            <sys_id>35b3487083f32210303bc8c6feaad30b</sys_id>
+            <sys_created_on>2025-09-04 17:48:19</sys_created_on>
+            <sys_id>811e7ad583b72210303bc8c6feaad37f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+            <sys_updated_on>2025-09-04 17:48:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>imd_rating</element>
+            <element>average_rating</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
-            <sys_id>3db3487083f32210303bc8c6feaad30b</sys_id>
+            <sys_created_on>2025-09-04 17:48:19</sys_created_on>
+            <sys_id>091e7ad583b72210303bc8c6feaad37f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+            <sys_updated_on>2025-09-04 17:48:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
-            <sys_id>35b3487083f32210303bc8c6feaad30c</sys_id>
+            <sys_created_on>2025-09-04 17:48:19</sys_created_on>
+            <sys_id>8d1e7ad583b72210303bc8c6feaad37f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+            <sys_updated_on>2025-09-04 17:48:19</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>awards</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-02 14:57:06</sys_created_on>
-            <sys_id>3db3487083f32210303bc8c6feaad30c</sys_id>
+            <sys_created_on>2025-09-04 17:48:19</sys_created_on>
+            <sys_id>051e7ad583b72210303bc8c6feaad380</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-02 14:57:06</sys_updated_on>
+            <sys_updated_on>2025-09-04 17:48:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>metascore</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-02 14:57:07</sys_created_on>
-            <sys_id>35b3487083f32210303bc8c6feaad30d</sys_id>
+            <sys_created_on>2025-09-04 17:48:19</sys_created_on>
+            <sys_id>891e7ad583b72210303bc8c6feaad380</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ratings" display_value="Ratings" name="x_1829932_netflix_media" sys_domain="global" view="Default view">29b3087083f32210303bc8c6feaad384</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-02 14:57:07</sys_updated_on>
+            <sys_updated_on>2025-09-04 17:48:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

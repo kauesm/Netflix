@@ -6,7 +6,6 @@
         <element label="Language" max_length="250" name="language" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
         <element label="Country" max_length="250" name="country" type="string"/>
-        <element default="0" label="Avarage Rating" max_length="40" name="avarage_rating" type="float"/>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element label="Writters" max_length="4000" name="writters" type="string"/>
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
@@ -22,5 +21,6 @@
         <element label="Category" max_length="40" name="category" type="string"/>
         <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element label="Realease Date" max_length="250" name="realease_date" type="glide_date"/>
+        <element label="Average Rating" max_length="250" name="average_rating" type="float"/>
     </element>
 </database>

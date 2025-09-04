@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="avarage_rating" table="x_1829932_netflix_media">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Avarage Rating</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>0</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>avarage_rating</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">float</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1829932_netflix_media</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 14:35:07</sys_created_on>
+        <sys_id>2bae77e883b32210303bc8c6feaad396</sys_id>
+        <sys_name>Avarage Rating</sys_name>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_update_name>sys_dictionary_x_1829932_netflix_media_avarage_rating</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 14:37:59</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</application>
+        <file_path/>
+        <instance_id>e17291241b3ef550c84543f4bd4bcbbd</instance_id>
+        <instance_name>dev224975</instance_name>
+        <name>sys_dictionary_x_1829932_netflix_media_avarage_rating</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="avarage_rating" table="x_1829932_netflix_media"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Avarage Rating</column_label><comments/><create_roles/><default_value>0</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>avarage_rating</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">float</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1829932_netflix_media</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-02 14:35:07</sys_created_on><sys_id>2bae77e883b32210303bc8c6feaad396</sys_id><sys_name>Avarage Rating</sys_name><sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package><sys_policy/><sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope><sys_update_name>sys_dictionary_x_1829932_netflix_media_avarage_rating</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-02 14:37:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1911141196</payload_hash>
+        <record_name>Media.Avarage Rating</record_name>
+        <reverted_from/>
+        <source>f02440a4833b2210303bc8c6feaad316</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 14:37:59</sys_created_on>
+        <sys_id>255f772c83b32210303bc8c6feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1990adcff880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 14:37:59</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e95f772c64b32210189c57158eb50007</update_guid>
+        <update_guid_history>e95f772c64b32210189c57158eb50007:1911141196,84be77e844b32210b7378823e1c94ce7:-437251507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 17:47:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>94402baa955d4600b36600c77a6e1000</sys_id>
+        <sys_metadata>2bae77e883b32210303bc8c6feaad396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Avarage Rating</sys_name>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_parent display_value="Media">50babba483b32210303bc8c6feaad370</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_scope_delete display_value="">001ca3a84b3a49f097c21fcada23c240</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1829932_netflix_media_avarage_rating</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1829932_netflix_media_avarage_rating">255f772c83b32210303bc8c6feaad308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 17:47:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
