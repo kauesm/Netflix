@@ -2,6 +2,7 @@
     <element db_object_id="50babba483b32210303bc8c6feaad370" label="Media" max_length="40" name="x_1829932_netflix_media" type="collection">
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
         <element label="Awards" max_length="250" name="awards" type="string"/>
+        <element label="Release Year" max_length="40" name="release_year" type="string"/>
         <element default="0" label="IMD Rating" max_length="40" name="imd_rating" type="float"/>
         <element label="Language" max_length="250" name="language" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
