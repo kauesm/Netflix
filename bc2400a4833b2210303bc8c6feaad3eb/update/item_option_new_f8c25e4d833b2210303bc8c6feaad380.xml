@@ -18,11 +18,11 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <dynamic_value_dot_walk_path>avarage_rating</dynamic_value_dot_walk_path>
+        <dynamic_value_dot_walk_path>average_rating</dynamic_value_dot_walk_path>
         <dynamic_value_field display_value="Movie">bd79c281833b2210303bc8c6feaad3f4</dynamic_value_field>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>active</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -39,7 +39,7 @@
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>average_rating</name>
@@ -49,7 +49,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Average Ratng</question_text>
+        <question_text>Average Rating</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-03 20:03:08</sys_created_on>
         <sys_id>f8c25e4d833b2210303bc8c6feaad380</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Average Ratng</sys_name>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Average Rating</sys_name>
         <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
         <sys_update_name>item_option_new_f8c25e4d833b2210303bc8c6feaad380</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-05 13:07:13</sys_updated_on>
+        <sys_updated_on>2025-09-07 02:47:31</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -142,4 +142,15 @@
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>f8c25e4d833b2210303bc8c6feaad380</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-07 00:49:14</sys_created_on>
+        <sys_id>ee91768283732210303bc8c6feaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-07 00:49:14</sys_updated_on>
+        <table>item_option_new</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
