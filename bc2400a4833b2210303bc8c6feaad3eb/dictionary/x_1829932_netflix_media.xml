@@ -38,5 +38,6 @@
         <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element label="Realease Date" max_length="250" name="realease_date" type="glide_date"/>
         <element label="Average Rating" max_length="250" name="average_rating" type="float"/>
+        <element label="Integration Error Message" max_length="1000" name="integration_error_message" type="string"/>
     </element>
 </database>
