@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>x_1829932_netflix_poster.xml</formatter>
+        <name>poster</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>netflix.tester</sys_created_by>
+        <sys_created_on>2025-09-10 16:35:08</sys_created_on>
+        <sys_id>23d6ed5f83372210303bc8c6feaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>poster</sys_name>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_update_name>sys_ui_formatter_23d6ed5f83372210303bc8c6feaad39f</sys_update_name>
+        <sys_updated_by>netflix.tester</sys_updated_by>
+        <sys_updated_on>2025-09-10 16:35:08</sys_updated_on>
+        <table>x_1829932_netflix_media</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</application>
+        <file_path/>
+        <instance_id>e17291241b3ef550c84543f4bd4bcbbd</instance_id>
+        <instance_name>dev224975</instance_name>
+        <name>sys_ui_formatter_23d6ed5f83372210303bc8c6feaad39f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>x_1829932_netflix_poster.xml</formatter><name>poster</name><seismic_component/><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>netflix.tester</sys_created_by><sys_created_on>2025-09-10 16:35:08</sys_created_on><sys_id>23d6ed5f83372210303bc8c6feaad39f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>poster</sys_name><sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package><sys_policy/><sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope><sys_update_name>sys_ui_formatter_23d6ed5f83372210303bc8c6feaad39f</sys_update_name><sys_updated_by>netflix.tester</sys_updated_by><sys_updated_on>2025-09-10 16:35:08</sys_updated_on><table>x_1829932_netflix_media</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>2097875932</payload_hash>
+        <record_name>poster</record_name>
+        <reverted_from/>
+        <source>2140d20d833b2210303bc8c6feaad34b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>netflix.tester</sys_created_by>
+        <sys_created_on>2025-09-10 16:35:08</sys_created_on>
+        <sys_id>63d6ed5f83372210303bc8c6feaad3a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199347b1fbe0000001</sys_recorded_at>
+        <sys_updated_by>netflix.tester</sys_updated_by>
+        <sys_updated_on>2025-09-10 16:35:08</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>67d6ed5f0b37221013d049629ea127a0</update_guid>
+        <update_guid_history>67d6ed5f0b37221013d049629ea127a0:2097875932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>netflix.tester</sys_created_by>
+        <sys_created_on>2025-09-11 12:16:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>088d7266dfc94d00827d952a7aadc900</sys_id>
+        <sys_metadata>23d6ed5f83372210303bc8c6feaad39f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>poster</sys_name>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_parent display_value="Media">50babba483b32210303bc8c6feaad370</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_scope_delete display_value="">001ca3a84b3a49f097c21fcada23c240</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_23d6ed5f83372210303bc8c6feaad39f</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_23d6ed5f83372210303bc8c6feaad39f">63d6ed5f83372210303bc8c6feaad3a1</sys_update_version>
+        <sys_updated_by>netflix.tester</sys_updated_by>
+        <sys_updated_on>2025-09-11 12:16:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

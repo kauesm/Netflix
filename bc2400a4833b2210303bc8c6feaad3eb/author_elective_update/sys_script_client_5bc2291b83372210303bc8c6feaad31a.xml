@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>poster</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Load Poster v2</name>
+        <order>10</order>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   
+g_form.getElement("poster_image").src = newValue;
+ 
+  
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-10 16:17:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bc2291b83372210303bc8c6feaad31a</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Load Poster v2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_update_name>sys_script_client_5bc2291b83372210303bc8c6feaad31a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-11 01:59:47</sys_updated_on>
+        <table>x_1829932_netflix_media</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</application>
+        <file_path/>
+        <instance_id>e17291241b3ef550c84543f4bd4bcbbd</instance_id>
+        <instance_name>dev224975</instance_name>
+        <name>sys_script_client_5bc2291b83372210303bc8c6feaad31a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;poster&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Load Poster v2&lt;/name&gt;&lt;order&gt;10&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   
+g_form.getElement("poster_image").src = newValue;
+ 
+  
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-10 16:17:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5bc2291b83372210303bc8c6feaad31a&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;Load Poster v2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Netflix" source="x_1829932_netflix"&gt;bc2400a4833b2210303bc8c6feaad3eb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Netflix"&gt;bc2400a4833b2210303bc8c6feaad3eb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_5bc2291b83372210303bc8c6feaad31a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-11 01:59:47&lt;/sys_updated_on&gt;&lt;table&gt;x_1829932_netflix_media&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1989082656</payload_hash>
+        <record_name>Load Poster v2</record_name>
+        <reverted_from/>
+        <source>75cb20cd83332210303bc8c6feaad369</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-11 01:59:47</sys_created_on>
+        <sys_id>be18a71b83bf2210303bc8c6feaad3e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199368014750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-11 01:59:47</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>7618a71bcdbf22102f190f311cb596e1</update_guid>
+        <update_guid_history>7618a71bcdbf22102f190f311cb596e1:1989082656,de69ad5334772210f334b9a46b3dc0f1:-1531129293,8b58a5133077221065fe7e75aebbe46b:1989082656,0b386513bf7722104d483088507de489:-675337498,42e7addfa3372210193c4c77369a3858:700154026,46f6699fef37221079fc4839d469c7a9:938537515,6286ed5f5037221096dcd694ca72c382:-2098213320,d836e55f10372210a85c2992bd599661:282274665,2f84e1dbaf3722100660ff02e72dad94:530790934,3744659b4d37221028bf68a38aa270dd:-1547145375,b0c3255be1372210436c6f9d2c4bb95d:1728349364,c663255bfb3722105a5f29bdd189df58:1483708356,b8236d1bdc372210ae667f4f10967d17:-1674084353,d9d2a11b643722107fc48624ac72cfb0:-688031222,9fc2291b90372210008d449f743ace1d:-73664227</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-11 12:08:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>076d28568241421888ebdc0200e4f204</sys_id>
+        <sys_metadata>5bc2291b83372210303bc8c6feaad31a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Load Poster v2</sys_name>
+        <sys_package display_value="Netflix" source="x_1829932_netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_package>
+        <sys_parent display_value="Media">50babba483b32210303bc8c6feaad370</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">bc2400a4833b2210303bc8c6feaad3eb</sys_scope>
+        <sys_scope_delete display_value="">001ca3a84b3a49f097c21fcada23c240</sys_scope_delete>
+        <sys_update_name>sys_script_client_5bc2291b83372210303bc8c6feaad31a</sys_update_name>
+        <sys_update_version display_value="sys_script_client_5bc2291b83372210303bc8c6feaad31a">be18a71b83bf2210303bc8c6feaad3e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-11 12:08:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
